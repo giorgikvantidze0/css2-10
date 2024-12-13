@@ -1,0 +1,253 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#box {
+    background-color: #E2F7FF;
+    margin: 0 auto;
+    max-width: 1604px;
+    
+}
+
+#conteiner {
+    max-width: 1216px;
+    width: 100%;
+    background-color: #E2F7FF;
+    margin: 0 auto;    
+    text-align: center;
+}
+
+#image-conteiner {
+    margin: 0 auto;
+}
+
+#date {
+    text-align: left;
+    margin-top: 10px;
+
+}
+
+#date-div {
+    font-size: 14px;
+    color: #6941C6;
+}
+
+#date-ux {
+    color: #000000;
+    font-size: 30px;
+    max-width: 1176px;
+    width: 100%;
+    display: inline-block;
+}
+
+#date-how {
+    color: #535862;
+    font-size: 16px;
+}
+
+#button-design {
+    font-size: 15px;
+    color: #6941C6;
+    background-color: #F9F5FF;
+    padding: 12px;
+    border-radius: 20px;
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#button-research {
+    font-size: 15px;
+    color: #3538CD;
+    background-color: #F9F5FF;
+    border: 1px solid ;
+    padding: 12px;
+    border-radius: 20px;
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 25px;
+}
+
+#button-Presentation {
+    font-size: 15px;
+    color: #C11574;
+    background-color: #F9F5FF;
+    border: 1px solid #FCCEEE;
+    padding: 12px;
+    border-radius: 20px;
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 25px;
+}
+
+#image-conteiner-too {
+    text-align: left;
+    display: inline-block;
+
+    max-width: 344px;
+    width: 100%;
+}
+
+#conteiner-one {
+    text-align: left;
+    margin-top: 50px; 
+    max-width: 1280px;
+    width: 100%;
+   
+}
+
+#conteinerrr {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle; 
+}
+
+.conteiner-data {
+    font-size: 14px;
+    color: #6941C6;
+    margin-top: 10px;
+}
+
+.conteiner-data-too {
+    color: #000000;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.conteiner-data-three {
+    color: #535862;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+#buuttonone {
+    font-size: 15px;
+    color: #026AA2;
+    background-color: #F0F9FF;
+    border-color:  #B9E6FE;
+    padding: 12px;
+    border-radius: 20px;
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#buttontoo {
+    font-size: 15px;
+    color: #C11574;
+    background-color: #FDF2FA;
+    border-color:  #FCCEEE;
+    padding: 12px;
+    border-radius: 20px;
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: middle
+}
+
+#buttonthree {
+    font-size: 15px;
+    color: #C11574;
+    background-color: #FDF2FA;
+    border-color:  #FCCEEE;
+    padding: 12px;
+    border-radius: 20px;
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: middle
+}
+
+#Linear {
+    max-width: 344px;
+    width: 100%;
+    display: inline-block;
+}
+
+#conteinerrr-too {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle; 
+    margin-left: 20px;
+}
+
+#button-design-one {
+    font-size: 15px;
+    color: #067647;
+    background-color: #ECFDF3;
+    border-color: #ABEFC6;
+    padding: 12px;
+    border-radius: 20px;
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#button-research-too {
+    font-size: 15px;
+    color: #C11574;
+    background-color: #FDF2FA;
+    border-color:  #FCCEEE;
+    padding: 12px;
+    border-radius: 20px;
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: middle
+}
+
+.your {
+    max-width: 300px;
+    width: 100%;
+    display: inline-block;
+}
+
+#cconteiner-three {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle; 
+    margin-left: 20px;
+}
+
+#Building {
+    max-width: 300px;
+    width: 100%;
+    display: inline-block;
+    font-size: 25px;
+}
+
+#button-leadership {
+    font-size: 15px;
+    color: #6941C6;
+    background-color: #F9F5FF;
+    border-color:  #E9D7FE;
+    padding: 12px;
+    border-radius: 20px;
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: middle
+}
+
+
+#button-management {
+    font-size: 15px;
+    color: #363F72;
+    background-color: #F8F9FC;
+    border-color:  #D5D9EB;
+    padding: 12px;
+    border-radius: 20px;
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: middle
+}
+
+
+#conteinerrr-too-- {
+    text-align: left;
+    margin-top: 10px;
+    
+}
