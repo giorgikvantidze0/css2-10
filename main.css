@@ -4,18 +4,24 @@
     box-sizing: border-box;
 }
 
+#frame {
+    padding: 30px;
+}
+
+
 #box {
     background-color: #E2F7FF;
     margin: 0 auto;
     max-width: 1604px;
-    
+    padding: 35px;
+
 }
 
 #conteiner {
     max-width: 1216px;
     width: 100%;
     background-color: #E2F7FF;
-    margin: 0 auto;    
+    margin: 0 auto;
     text-align: center;
 }
 
@@ -62,7 +68,7 @@
     font-size: 15px;
     color: #3538CD;
     background-color: #F9F5FF;
-    border: 1px solid ;
+    border: 1px solid;
     padding: 12px;
     border-radius: 20px;
     margin-top: 15px;
@@ -94,17 +100,17 @@
 
 #conteiner-one {
     text-align: left;
-    margin-top: 50px; 
+    margin-top: 50px;
     max-width: 1280px;
     width: 100%;
-   
+
 }
 
 #conteinerrr {
     max-width: 384px;
     width: 100%;
     display: inline-block;
-    vertical-align: middle; 
+    vertical-align: middle;
 }
 
 .conteiner-data {
@@ -117,6 +123,8 @@
     color: #000000;
     font-size: 30px;
     margin-top: 10px;
+    display: inline-block;
+
 }
 
 .conteiner-data-three {
@@ -129,7 +137,7 @@
     font-size: 15px;
     color: #026AA2;
     background-color: #F0F9FF;
-    border-color:  #B9E6FE;
+    border-color: #B9E6FE;
     padding: 12px;
     border-radius: 20px;
     margin-top: 15px;
@@ -141,7 +149,7 @@
     font-size: 15px;
     color: #C11574;
     background-color: #FDF2FA;
-    border-color:  #FCCEEE;
+    border-color: #FCCEEE;
     padding: 12px;
     border-radius: 20px;
     margin-top: 15px;
@@ -153,7 +161,7 @@
     font-size: 15px;
     color: #C11574;
     background-color: #FDF2FA;
-    border-color:  #FCCEEE;
+    border-color: #FCCEEE;
     padding: 12px;
     border-radius: 20px;
     margin-top: 15px;
@@ -162,16 +170,17 @@
 }
 
 #Linear {
-    max-width: 344px;
+    max-width: 315px;
     width: 100%;
     display: inline-block;
 }
+
 
 #conteinerrr-too {
     max-width: 384px;
     width: 100%;
     display: inline-block;
-    vertical-align: middle; 
+    vertical-align: middle;
     margin-left: 20px;
 }
 
@@ -187,11 +196,11 @@
     vertical-align: middle;
 }
 
-#button-research-too {
+#button-research-too- {
     font-size: 15px;
     color: #C11574;
     background-color: #FDF2FA;
-    border-color:  #FCCEEE;
+    border-color: #FCCEEE;
     padding: 12px;
     border-radius: 20px;
     margin-top: 15px;
@@ -200,16 +209,28 @@
 }
 
 .your {
-    max-width: 300px;
+    max-width: 344px;
     width: 100%;
     display: inline-block;
+}
+
+#your-logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+
+#conteiner-too-text {
+    margin-top: -3px;
 }
 
 #cconteiner-three {
     max-width: 384px;
     width: 100%;
     display: inline-block;
-    vertical-align: middle; 
+    vertical-align: middle;
     margin-left: 20px;
 }
 
@@ -224,7 +245,7 @@
     font-size: 15px;
     color: #6941C6;
     background-color: #F9F5FF;
-    border-color:  #E9D7FE;
+    border-color: #E9D7FE;
     padding: 12px;
     border-radius: 20px;
     margin-top: 15px;
@@ -237,7 +258,7 @@
     font-size: 15px;
     color: #363F72;
     background-color: #F8F9FC;
-    border-color:  #D5D9EB;
+    border-color: #D5D9EB;
     padding: 12px;
     border-radius: 20px;
     margin-top: 15px;
@@ -246,8 +267,128 @@
 }
 
 
-#conteinerrr-too-- {
+#conteinerrr-too-t00 {
     text-align: left;
     margin-top: 10px;
-    
+    display: inline-block;
 }
+
+#button-research-too {
+    display: inline-block;
+    vertical-align: middle
+}
+
+#vertical {
+    text-align: left;
+    margin-top: 50px;
+    max-width: 1280px;
+    width: 100%;
+}
+
+
+
+#conteiner-for {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+#buutton-forr {
+    padding: 12px;
+    border-color: #B9E6FE;
+    background-color: #F0F9FF;
+    color: #026AA2;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+
+#buttontoo-conteiner-for {
+    padding: 12px;
+    border-color: #EEF4FF;
+    background-color: #C7D7FE;
+    color: #3538CD;
+    border-radius: 20px;
+    margin-top: 5px;
+
+}
+
+#buttonthree-conteinerr-for {
+    padding: 12px;
+    font-size: 15px;
+    border-color: #FEF6EE;
+    background-color: #FEF6EE;
+    color: #B93815;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+
+#conteiner-fife {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+
+#buutton-forr {
+    color: #6941C6;
+    background-color: #F9F5FF;
+    border-color: #E9D7FE;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+#buttontoo-conteiner-for {
+    color: #3538CD;
+    background-color: #C7D7FE;
+    border-color: #C7D7FE;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+#conteiner-six {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+    margin-top: 36px;
+}
+
+
+
+#buutton-six {
+    color: #6941C6;
+    background-color: #F9F5FF;
+    border-color: #E9D7FE;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+
+#buttontoo-conteiner-six {
+    color: #3538CD;
+    background-color: #C7D7FE;
+    border-color: #C7D7FE;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+#six-logo {
+    vertical-align: top;
+    display: inline-block;
+}
+
+
+
